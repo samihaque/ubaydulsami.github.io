@@ -46,7 +46,9 @@ Link: https://sites.google.com/view/bmccautismresearch/home?authuser=0
 
 # TECHNICAL SKILLS
 
-**Programming and Scripting languages:** C++, Python, SQL, HTML, CSS, JavaScript Software development tools: Git, Visual Studio, Replit, Android Studio, Unity Database management systems: MySQL
+**Programming and Scripting languages:** C++, Python, SQL, HTML, CSS, JavaScript Software development tools: Git, Visual Studio, Replit, Android Studio, Unity
+
+**Database management systems:** MySQL
 
 **Operating systems:** Windows, macOS
 
