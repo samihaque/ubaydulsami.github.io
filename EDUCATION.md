@@ -1,4 +1,4 @@
-#EDUCATION
+# EDUCATION
 
 **Lehman College (September 2022 - May 2024)**
 Bachelor of Science in Computer Science (GPA 3.62) 
