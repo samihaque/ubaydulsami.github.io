@@ -1,4 +1,4 @@
-#PROJECT
+# PROJECT
 
 **Competition Teams Rating**
 Link: https://github.com/samihaque/Competition-Teams-Rating
