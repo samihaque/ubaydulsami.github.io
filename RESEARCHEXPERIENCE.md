@@ -1,4 +1,4 @@
-#RESEARCH EXPERIENCE
+# RESEARCH EXPERIENCE
 
 **Researcher, Borough of Manhattan Community College** Jan 2022 – Aug 2022
 
